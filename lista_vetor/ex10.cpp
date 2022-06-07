@@ -25,7 +25,7 @@ int main() {
                 scanf("%d",&B[i][j]);
             }
         }
-        printf("\n\nResultant Matrix : \n\n");
+        printf("Resultant Matrix : ");
         for (i=0;i<r1;i++) {
             for (n=0;n<c2;n++) {
                 sum=0;
